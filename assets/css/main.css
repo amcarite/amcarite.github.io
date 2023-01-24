@@ -2144,14 +2144,15 @@ input, select, textarea {
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
+				object-fit: fill;
 			}
 		
-		.image.rounded-circle{
+		/* .image.rounded-circle{
 			border:1px solid;
 			border-radius:50%;
 			width:10px;
 			height:10px;
-			}
+			} */
 
 /* List */
 
